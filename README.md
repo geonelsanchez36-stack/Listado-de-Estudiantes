@@ -21,13 +21,13 @@ El proyecto responde a los requerimientos planteados en la actividad, donde se s
  -Estructura del Proyecto
 text
 
-📁 Listado-de-Estudiantes/
-├── 📄 Estudiante.java
-├── 📄 Nodo.java
-├── 📄 ListInterface.java
-├── 📄 LinkedList.java
-├── 📄 Main.java
-└── 📄 README.md
+ Listado-de-Estudiantes/
+   Estudiante.java
+   Nodo.java
+   ListInterface.java
+   LinkedList.java
+   Main.java
+   README.md
 
  Descripción de las Clases
 1. Estudiante.java
